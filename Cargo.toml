@@ -1,0 +1,13 @@
+[package]
+name = "weralt"
+version = "0.1.0"
+authors = ["wtrh"]
+edition = "2018"
+description = "A port of the WORLD vocoder"
+license = "BSD-3-Clause"
+publish = false
+
+[dependencies]
+
+[dev-dependencies]
+hound = "3.5.1"
